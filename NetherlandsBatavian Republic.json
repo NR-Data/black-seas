@@ -1,0 +1,2918 @@
+{
+  "catalogue": {
+    "name": "Netherlands/Batavian Republic",
+    "id": "2f27-85e3-728f-5dbf",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "51c2-042a-5d64-71ec",
+    "gameSystemRevision": 17,
+    "library": false,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "1st Rate",
+        "id": "92bf-9ad1-7237-1b18",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d273-1a5d-79fc-d725",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "43f8-4d36-051a-65fb", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "5cfc-6092-7e68-84b7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "1054-526c-ae32-7757",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "e2cb-6765-ac76-ff30",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "2nd Rate",
+        "id": "77c2-ebfb-7606-0c74",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4bad-abd8-8743-84e0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "c282-580a-7115-9366", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "fbcd-2b93-b4d6-701c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "f33a-88b9-88ab-abce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "30a3-2c5b-d701-a232",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Large)",
+        "id": "fb41-31ea-5175-5426",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "97a2-1cff-c1ab-c915",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "95d4-9da0-14a7-d26a", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "1d75-91b9-771d-ebe6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "f982-e4f1-2004-4aab",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "138f-f4bb-fe22-876f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Razeed)",
+        "id": "a60e-8118-7554-1979",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9af3-3a0d-17e3-0b14",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "809c-e4a4-5a20-0381", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6222-44dd-94e0-5879",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "178d-71e6-3332-bc60",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "b828-e303-98d3-311e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Small)",
+        "id": "7f34-f5ea-4c33-0f81",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3bb3-9779-d91b-efc8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1af5-ff5c-5e43-27de", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9cf9-0333-b358-f611",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "a350-0580-fbc0-4862",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "87e4-ce04-2941-0239",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate",
+        "id": "e790-e6f1-ca1d-f8c6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4b95-6630-7b1d-33b8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3ecd-5853-45e8-a341", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9bcb-a684-539a-381a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "fdd6-741f-a628-36f8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "3e4e-a35b-349c-92b5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate (Razeed)",
+        "id": "b880-3f7e-57b6-18fc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2334-6787-3a8d-f3ba",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1159-e9cc-588e-2510", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "cefe-15f4-ccb9-92c8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "0859-6cf4-04b3-9c2c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "8e98-12d7-db74-49ac",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "5th Rate",
+        "id": "1c1e-efe0-d1ee-40d5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5536-64cc-de6c-fda3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6e39-28f2-b1a2-8a0b", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "aebf-918b-0dcf-c126",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "418f-8390-2e76-9988",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "452a-630d-fa69-9a31",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "6th Rate",
+        "id": "ce3c-5da7-c95d-0bfe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a120-b934-6963-b4b3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "e1a2-2bc7-0bc3-b9b8", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "4813-bbd7-06fa-f168",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b790-8369-90e8-2e3a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "3a5b-7e67-8101-9520",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Barque",
+        "id": "c67c-b60d-2de3-81e1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9e61-60e2-3796-19f0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4d8e-1081-b0d3-7103", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "2711-7add-2b2b-ab0b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "2a1d-9245-0014-e97d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7a71-61ea-e658-5370",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "07cb-60e5-0975-e7cc",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "e328-306b-1dd2-8e38",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "c42c-877d-2343-1eac",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "c42c-877d-2343-1eac", "type": "set", "value": 1},
+                  {"field": "e328-306b-1dd2-8e38", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bomb Ketch",
+        "id": "7210-bb84-1d95-6183",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d1b9-f695-83bf-2a47",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "f95a-0231-9f14-9527", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6cb0-dd3e-384a-37e1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "15bc-5cfe-72a8-3314",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "8880-5824-8d2e-4990",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "4ff5-3fc7-70b3-ce7b",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "0054-23e5-41d7-463e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "d92c-0d99-9c9b-9a74",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "0054-23e5-41d7-463e", "type": "set", "value": 1},
+                  {"field": "d92c-0d99-9c9b-9a74", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bomb Vessel",
+        "id": "7edd-a017-97a5-c075",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5470-ef41-9bb6-3402",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4925-96ba-a83d-a6e2", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9d29-6c6f-d26e-2196",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "9027-19f4-d3f9-43af",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "4835-0b43-aab9-4dee",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "629e-a5e4-bbed-ea89",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "a64c-3298-9b4d-6f00",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "0244-690b-faa1-38a0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "a64c-3298-9b4d-6f00", "type": "set", "value": 1},
+                  {"field": "0244-690b-faa1-38a0", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brig",
+        "id": "7085-6f44-7614-8ce1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7bb6-9880-ad78-df26",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8eab-87e1-2148-4229", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "e695-f793-833b-f80b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e521-7882-8468-9ede",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "debb-3e8b-c71f-d3de",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "1601-0057-be15-2068",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "93b4-d08a-2aa8-4641",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "33f4-1c5f-3186-4a01",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "93b4-d08a-2aa8-4641", "type": "set", "value": 1},
+                  {"field": "33f4-1c5f-3186-4a01", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cutter",
+        "id": "f601-5ceb-88fc-86ed",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0da6-3ef1-9cfa-2e11",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "eece-422e-7923-daa8", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9a17-ddd1-fd26-eed9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "0751-72a8-796c-4a3c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "366b-e419-40cc-b48b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "aa4b-31e9-cb07-2aa7",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "27f3-b142-99e1-6205",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "7e02-680b-80a2-9271",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "7e02-680b-80a2-9271", "type": "set", "value": 1},
+                  {"field": "27f3-b142-99e1-6205", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cutter (Small)",
+        "id": "2ad0-62c8-9d2b-8eeb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9a56-4d24-336e-2953",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d966-7385-2f92-854b", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "eaff-19a4-a44c-e160",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "f680-7069-4f01-cdf9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0472-b641-ce01-9196",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Fireship",
+        "id": "8cee-fc66-e2fa-afad",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9b79-e4bb-3a20-31ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "f312-9e49-84c8-1b3a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "db09-e255-01a9-3965",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "c293-c12a-45d4-8a20",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7d6b-9ddc-df95-f55f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "ad55-b28a-f06a-0330",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "555a-905a-429a-fe34",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "bc86-827d-0680-4cbc",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "bc86-827d-0680-4cbc", "type": "set", "value": 1},
+                  {"field": "555a-905a-429a-fe34", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Floating Battery",
+        "id": "afa5-912d-bb12-27b1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b8b6-7079-7c34-10ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "fdf9-e759-538a-2f3f", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6798-3452-fa1d-e46f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galleon",
+        "id": "6456-5119-016f-3629",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "432b-3429-ae8d-81df",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d5aa-170b-fde6-72f1", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "4e78-6f04-b249-4468",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "7646-7b20-bbdc-93fc",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "755a-3647-1f05-a457",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "41ce-5e15-f6c3-1df0",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "4a57-1933-df34-2070",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "9a97-a3e8-0002-f661",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "4a57-1933-df34-2070", "type": "set", "value": 1},
+                  {"field": "9a97-a3e8-0002-f661", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Galley (Large)",
+        "id": "19d1-d559-a8df-a59b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3b7e-49d6-22ab-4615",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4701-be87-dac0-208a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "d9ed-ccaf-1d46-2156",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6c57-52be-18a2-cb88",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "c536-7627-cac0-57e4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galley (Small)",
+        "id": "a68f-cbca-c093-b18b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f1b0-8cd1-b82e-6dcf",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6ee7-f8a6-61e6-630d", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6d05-833b-a55d-150f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "20f0-1c3d-98b0-f887",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "19ea-c908-b5ee-6d2c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunboat Squadron",
+        "id": "e868-68e2-fe38-82ff",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3485-71bb-9b3b-0be4",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "411d-ab1b-b2df-7b06", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "1568-6081-6b6f-a8ab",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "01fd-09ec-487b-71ca",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunbrig Squadron",
+        "id": "10aa-10d9-6bb4-3107",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3d1d-521a-cfa2-f96c",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "c221-699a-6ccd-5b02", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9a8f-b19e-ab77-0da2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "c441-ab31-888e-9740",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Large Gunbrig",
+        "id": "a061-43c3-564b-2414",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "caaa-ee3d-cdf7-3cdd",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "7bb2-de16-40ed-9962", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "d5e1-2ef3-511a-5991",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "5246-a5c7-af83-c0ef",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "2a90-aa8e-685c-4aa1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "6fa9-4bf8-9f65-ef56",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "2ac2-7d10-88ae-3eb1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "139d-2cb0-101b-488c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "2ac2-7d10-88ae-3eb1", "type": "set", "value": 1},
+                  {"field": "139d-2cb0-101b-488c", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Martello Tower",
+        "id": "d37c-445b-7500-8650",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f5cb-eebe-eded-de98",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "033b-57c2-dd89-0bfb", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "d542-3682-5a51-01eb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Large)",
+        "id": "d9a9-d28a-3a1a-4b92",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e2c0-ce7d-7240-a845",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "43b8-71e9-2351-355b", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "858c-27a6-f1db-2b34",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "aabe-c340-cd4e-644c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "f805-4874-43d4-c55f",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "7358-6b3a-f7cf-cc23",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "594d-672a-5e8e-411e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "7358-6b3a-f7cf-cc23", "type": "set", "value": 1},
+                  {"field": "594d-672a-5e8e-411e", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Small)",
+        "id": "fb04-0de4-2968-3876",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2897-f838-87ac-7b53",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "753b-7d47-b2ed-38bc", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "bc54-7948-e902-f7ac",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "1f55-a6a1-f62c-64a0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "635a-3eab-0053-41ba",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "36dc-80fa-617d-1676",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "8430-3628-67e7-f342",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "8430-3628-67e7-f342", "type": "set", "value": 1},
+                  {"field": "36dc-80fa-617d-1676", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Schooner",
+        "id": "95a9-9edf-1f2a-922c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9ab6-bc2e-aec5-6951",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4623-1855-209f-f138", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "7af9-c85f-19af-5a2d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "9482-8b37-2124-7284",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "8970-66d3-8706-00eb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "dbb8-09f7-e0fe-bf09",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "2711-ea9a-1b83-1325",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "a0f4-a0e4-88b4-aee5",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "a0f4-a0e4-88b4-aee5", "type": "set", "value": 1},
+                  {"field": "2711-ea9a-1b83-1325", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shore Fortress",
+        "id": "0a11-66a3-ad97-e3ae",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dec0-1869-41a7-262d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3eee-abf2-a535-8df3", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "fe8a-3f44-965d-0760",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Gun Emplacement",
+        "id": "f376-91ef-fe9c-60b1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2d67-c001-1f52-f720",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "90f6-58d0-c8c2-c545", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "81b3-a1d5-f85a-c7ad",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Mortar Emplacement",
+        "id": "e771-29f6-947e-2447",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "09c4-ddc6-3908-569f",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d4de-f8bf-8131-0310", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "c17b-d5e5-47e0-2f3a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Sloop",
+        "id": "c3a5-047c-6316-da5c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2f41-7c10-013b-4ad9",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "640e-cb28-5d7a-47fd", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "38f1-307a-14ce-4769",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "d3f6-3bbc-4544-2b5a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "2ca0-4400-6c54-1b20",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "f79a-207e-bd1d-392c",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "constraints": [
+              {
+                "id": "aa37-211e-e9cd-8d8e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 0
+              },
+              {
+                "id": "fc81-8311-3f87-22eb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "modifierGroups": [
+              {
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {"field": "aa37-211e-e9cd-8d8e", "type": "set", "value": 1},
+                  {"field": "fc81-8311-3f87-22eb", "type": "set", "value": 1},
+                  {"field": "hidden", "type": "set", "value": false}
+                ]
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": true,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "greaterThan",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {"field": "7d88-7913-6ca0-ac33", "type": "set", "value": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Large)",
+        "id": "a826-eea7-4a90-2e1b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2667-0784-2c3a-329a",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "578b-830c-3dd7-ea80", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "7af9-ff66-374f-0a1b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "df7b-bb70-c69c-04de",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "26a9-7bff-1c7a-e85d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Small)",
+        "id": "70dd-47ec-be0c-ae7b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6944-f8c1-77bf-1f8b",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "866d-7697-169b-3359", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "5d54-bb6b-0ab4-5cd2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6af5-0bc5-fcd4-2314",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "5f84-56ae-640a-3c43",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gun Ketch",
+        "id": "fda0-9796-86c8-626e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "28d0-af26-ee20-704d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ca68-e542-a85c-0644", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "45ef-1dbd-7722-06cf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "4efb-64e5-69c7-acfe",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b12c-bd56-1760-49ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          }
+        ]
+      },
+      {
+        "name": "Special Fleet Composition",
+        "id": "25be-6f8a-a6ac-bdbe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a0b9-7e6b-5c15-5e05",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "0de7-b261-296a-88ea", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}]
+      }
+    ],
+    "selectionEntries": [
+      {
+        "name": "National Special Rules",
+        "id": "b8a1-1a25-8cb1-892d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "fefc-b202-0690-9f3a", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}],
+        "constraints": [
+          {
+            "id": "5e9c-ed94-312d-85f6",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "6026-fcdb-ed10-98e3",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "National Special Rules",
+            "id": "0b9a-736c-316c-0349",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "2393-88e6-6fb2-12d2",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {
+            "name": "National Special Rules",
+            "id": "21b9-bbc5-56e9-30e2",
+            "hidden": false,
+            "targetId": "4d4b-1241-6d87-85a1",
+            "type": "rule",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "greaterThan",
+                    "value": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Shallow Draft (National Special Rule)",
+            "id": "831b-a7d5-d16b-66df",
+            "description": "All unrated Dutch/Batavian ships have the Shallow Draft upgrade at no extra cost. This does not count towards their maximum upgrades allowed.",
+            "hidden": false,
+            "page": 69,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditionGroups": [
+                  {
+                    "type": "or",
+                    "conditionGroups": [
+                      {
+                        "type": "and",
+                        "conditions": [
+                          {
+                            "childId": "acdc-916f-3496-1e3c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "equalTo",
+                            "value": 0
+                          },
+                          {
+                            "childId": "7ab9-2d58-2436-14ca",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "atLeast",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Staaten Generaal",
+        "id": "4186-aaff-5ed5-b229",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "62c7-dc5b-97cf-cb1a", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "1b6c-4f42-85e0-f3b8",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "df6d-78c5-d2fe-1da6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3182-1be2-e6a9-ef7f",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "6c57-6f35-3499-d7a7", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Staaten Generaal",
+            "id": "5e9f-a6c0-2034-957e",
+            "hidden": false,
+            "page": 69,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "L", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "3H-2L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1L", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "1H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "74", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Red", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "4", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "25", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Staaten Generaal",
+            "id": "ee48-da39-80c7-e785",
+            "description": "All Skill Test to extinguish fire on this ship get a +1 bonus.",
+            "hidden": false,
+            "page": 69,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Staaten Generaal",
+            "id": "6cca-e30b-40f3-8aa4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "4ede-cf11-c9ca-9381",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "3357-9457-5bbe-ae42",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 290}]
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntryGroups": [
+      {
+        "name": "Special Characters (Select Before Crew)",
+        "id": "3182-1be2-e6a9-ef7f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "constraints": [
+          {
+            "id": "a5e6-2097-20ad-6096",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "7650-dafe-91fe-d161",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "modifiers": [
+          {
+            "field": "7650-dafe-91fe-d161",
+            "type": "set",
+            "value": -1,
+            "conditions": [
+              {
+                "childId": "dc26-56e2-0fa1-c09e",
+                "field": "selections",
+                "includeChildForces": true,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Vice Admiral Jonkheer Theodorus Frederik van Capellan",
+            "id": "9f80-62e3-6070-4320",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "page": 69,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "type": "model",
+            "constraints": [
+              {
+                "id": "f5ae-7723-c92f-3fa0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 50}],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ],
+            "rules": [
+              {
+                "name": "Vice Admiral Jonkheer Theodorus Frederik van Capellan",
+                "id": "13c3-d05b-d6de-5368",
+                "description": "Any ship in van Capellan's fleet shoots with +1 to hit against privateers.",
+                "hidden": false,
+                "page": 69,
+                "publicationId": "600d-46bd-39bc-a54b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

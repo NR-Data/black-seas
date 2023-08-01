@@ -1,0 +1,2787 @@
+{
+  "catalogue": {
+    "name": "Spain",
+    "id": "c1b1-7855-47de-5089",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "51c2-042a-5d64-71ec",
+    "gameSystemRevision": 17,
+    "library": false,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "1st Rate",
+        "id": "0c8f-c80b-bb01-874f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d273-1a5d-79fc-d725",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d7b9-e175-8471-0faa", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "b906-f7c9-20cb-ddd3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e158-2a2d-0df8-a48b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "3274-1ff2-88a7-e2fa",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "2nd Rate",
+        "id": "ea8a-e087-22f9-1e97",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4bad-abd8-8743-84e0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "456d-6875-0455-5894", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "1360-9e43-13d5-21b9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "1793-eef1-7bad-4626",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "9b6c-dfb6-6eb0-3a2a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Large)",
+        "id": "320a-c6fd-b565-1987",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "97a2-1cff-c1ab-c915",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "b704-b281-1e96-be6b", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "56a1-2916-9be5-bc2b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "faff-ed7c-3625-9ef4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0ad5-79b6-832f-e404",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Razeed)",
+        "id": "9a35-7907-47d9-9149",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9af3-3a0d-17e3-0b14",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "460d-c751-20ff-fe65", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "163f-380f-9e3d-4f63",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "3aaf-bb2d-1c93-d259",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "f339-1367-de9c-178d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Small)",
+        "id": "c3f7-be4d-97df-5f48",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3bb3-9779-d91b-efc8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "7493-824a-a10b-342a", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "9ca8-40f3-d809-8be2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6725-ac20-50cf-1609",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "2505-a866-3f6f-f0b3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate",
+        "id": "830a-e8eb-3876-772a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4b95-6630-7b1d-33b8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "28a7-63fb-1f9f-68ce", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "fe11-f6e3-f53e-0f2b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "c71d-0fa9-85fa-1a71",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7db3-b52a-ad93-9dc3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate (Razeed)",
+        "id": "5c74-5784-09f1-589c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2334-6787-3a8d-f3ba",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "b5e1-94b1-4eb1-72e9", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "0906-84f6-d00a-15ef",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "a81f-399b-c5d0-27a6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "4232-3ba0-692a-a04e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "5th Rate",
+        "id": "a4b7-f8cc-a153-eda9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5536-64cc-de6c-fda3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "a7ea-f124-f1c9-0426", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "e603-f66a-c6df-b711",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "3529-184c-d908-c549",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "dc0c-ab7b-f363-7b17",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "6th Rate",
+        "id": "c3be-cd4c-03e5-92ba",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a120-b934-6963-b4b3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "0505-81ec-8a64-077f", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "c608-0e1b-94e2-39f0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "7d67-07a5-d222-21f8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0b8b-2f18-7cfc-654e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Barque",
+        "id": "48a2-f27f-1a66-37d9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9e61-60e2-3796-19f0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5f7c-4977-1eb5-a0f0", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "b1bc-d03a-7408-7de6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "d2a1-d632-b88a-b804",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0943-c6c4-8f86-2d04",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Ketch",
+        "id": "8c35-8574-0031-bc41",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d1b9-f695-83bf-2a47",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "7471-3a79-113a-7c07", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "0fa4-a7bd-5457-f041",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "776d-8927-29fc-11fe",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "ff48-2b36-2ed1-5cd7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Vessel",
+        "id": "62fe-49fe-8b4c-efb7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5470-ef41-9bb6-3402",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8689-44eb-0d71-1093", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "d41d-abbc-de52-3a56",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "bffd-5af1-dbef-e810",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "023d-9bb2-bd3e-e427",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Brig",
+        "id": "9e70-a9a0-05a0-44d6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7bb6-9880-ad78-df26",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "af40-597a-ceea-ec2a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "19f5-6b74-b9e0-47ca",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "2a55-fc83-0cc0-cfe8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "a45e-002d-9a6b-fb8c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Cutter",
+        "id": "fd55-39b8-6b42-d691",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0da6-3ef1-9cfa-2e11",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "32c0-ad50-ff15-5a38", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "8a4b-68f6-15bd-0f79",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "7be6-171e-3692-4166",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "1535-630f-2dff-3978",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Cutter (Small)",
+        "id": "65d1-7e91-b03d-3664",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9a56-4d24-336e-2953",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "743d-528d-8924-4bb9", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "feae-261a-c719-5402",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e6f2-fa83-32be-03f9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "c7d8-fc06-fa6f-da69",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Fireship",
+        "id": "6336-47ff-97fe-b158",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9b79-e4bb-3a20-31ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8bd9-cedc-bccf-a0dd", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "fcec-3c0b-1ca2-6e1f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "727c-dd21-a651-185d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "ebaf-5d43-83bd-1e37",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Floating Battery",
+        "id": "8859-873b-c35c-a57b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b8b6-7079-7c34-10ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "17fc-e965-06af-d323", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "797f-4771-ed4e-d6f2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galleon",
+        "id": "07b2-f075-2cd8-a9be",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "432b-3429-ae8d-81df",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d11c-d946-96d3-65bf", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "77ca-5c43-76e1-d11a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "aa42-a6a0-39c2-face",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "ef9f-a886-b8a6-2d27",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galley (Large)",
+        "id": "602c-267a-a0c7-6d7d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3b7e-49d6-22ab-4615",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "2043-b8c5-8d0f-f31b", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "76ae-d619-9b39-8d8c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "f096-cac9-a77f-b0b6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "a5a1-db03-45e5-9236",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galley (Small)",
+        "id": "ad38-fd52-e689-6ad3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f1b0-8cd1-b82e-6dcf",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ac81-292e-f7a5-f781", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "f184-444d-f421-e2f1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "5587-3e1c-0d11-ea16",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "851d-ecbb-ef80-9e94",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunboat Squadron",
+        "id": "d9ff-1ee6-42a1-6124",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3485-71bb-9b3b-0be4",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "97d6-040f-1559-febf", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "ab9d-4c74-0909-ad18",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "7beb-0fb5-9b32-90d0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunbrig Squadron",
+        "id": "8109-ce4b-43b2-9138",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3d1d-521a-cfa2-f96c",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3cd2-82fe-faec-c587", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "65fe-49ba-2d89-f568",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "372b-4aad-bbd6-660f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Large Gunbrig",
+        "id": "e421-c4e3-7353-8e56",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "caaa-ee3d-cdf7-3cdd",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "2483-ec8e-c074-fcf7", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "a784-eccb-0390-ca52",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b3f9-953e-1b84-6e31",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "111b-1dea-75b2-5703",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Martello Tower",
+        "id": "4ff0-2cd7-2d61-e2b9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f5cb-eebe-eded-de98",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3ff0-c907-b91d-b1cf", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "f3e8-3265-04f9-1a19",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Large)",
+        "id": "bae6-2e69-1658-ea1a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e2c0-ce7d-7240-a845",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "edca-fe61-b87c-d84f", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "ab98-e806-40b4-e71a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7658-d0d9-81d2-ad56",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Small)",
+        "id": "df66-d142-590b-000c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2897-f838-87ac-7b53",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "fde3-13bd-6e66-8aab", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "9367-9eb9-6929-cbe2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7c21-7385-d101-f4a6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Schooner",
+        "id": "2653-7202-7fad-c8e8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9ab6-bc2e-aec5-6951",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4c57-bdb9-0893-cca7", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6996-9682-fc6d-5ff1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6117-29fe-db2f-886f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7118-5da4-cdc7-d210",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Fortress",
+        "id": "e563-cfc0-98a9-2a16",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dec0-1869-41a7-262d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6f7d-c20c-5751-d2f0", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "b2e9-8f90-7479-738c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Gun Emplacement",
+        "id": "62d5-12b2-7ad4-ed4d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2d67-c001-1f52-f720",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5f99-a4d3-0aea-9f87", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "140c-67e7-c496-521d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Mortar Emplacement",
+        "id": "06eb-6960-d1b8-614b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "09c4-ddc6-3908-569f",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "318d-0db1-0c4c-5e6c", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "5d76-9216-4894-0bbe",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Sloop",
+        "id": "1be5-6008-f43e-f6ff",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2f41-7c10-013b-4ad9",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "0fbf-50a2-1a47-879e", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "516a-cee2-9079-d440",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e761-53ec-0351-2fe1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "4417-e110-281c-fc01",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Large)",
+        "id": "7f0d-42b1-72a6-5356",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2667-0784-2c3a-329a",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5082-7a72-eeb4-9c0b", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "2634-ca6c-81b7-9599",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7dab-c3d7-60a6-6ab4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "4ee3-9376-e47f-6ecf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0d3c-5bfb-8c64-e05a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Small)",
+        "id": "b6dd-1863-8551-4208",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6944-f8c1-77bf-1f8b",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "411f-9ca6-4f36-08f9", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "5355-8484-0d23-0dee",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "0aea-6d7c-8123-8e49",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d50d-b95e-6740-cf1b",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "bf95-8c25-757f-c73d", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "5763-2ea8-3a69-ed69",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gun Ketch",
+        "id": "c5c6-dd79-8bef-fe5e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "28d0-af26-ee20-704d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6f1a-9e6a-1d08-0697", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "e17a-37f1-dcc9-7d00",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "1a06-600d-ffcc-b507",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b61b-ecbf-b8a9-236a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          }
+        ]
+      },
+      {
+        "name": "Special Fleet Composition",
+        "id": "2039-a226-a128-45f0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a0b9-7e6b-5c15-5e05",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "52a4-3604-c0ee-10b4", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}]
+      }
+    ],
+    "selectionEntries": [
+      {
+        "name": "National Special Rules",
+        "id": "a605-f4ae-6072-962d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "e883-5491-32cb-7189", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}],
+        "constraints": [
+          {
+            "id": "d42c-03eb-8515-f8c5",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "86da-ee6b-85bd-ee99",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "National Special Rules",
+            "id": "57c9-7179-e7d3-6e37",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "2393-88e6-6fb2-12d2",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "rules": [
+          {
+            "name": "Heavily Armed",
+            "id": "f419-672c-6941-f08f",
+            "description": "1st rate ships were sometimes armed with many more cannons than other countries’ 1st rates. Spanish 1st rates may take the Over Gunned upgrade for free. However, due to the increased bulk of the ship it will need to make a Skill Test to sail with Full Sails. Additionally, these ships may never take Veteran crews as the up-gunned vessels rarely saw action.",
+            "hidden": false,
+            "page": 82,
+            "publicationId": "4400-38ae-29ec-f309",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "acdc-916f-3496-1e3c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tacking Difficulties",
+            "id": "6147-7de7-403b-9a6d",
+            "description": "Spanish sailors spent long periods of time in port because they were blockaded. Consequently, they often failed to practice their skills as often as they would have liked. All Spanish Navy Ships (apart from all Famous Ships) have a -1 to Skill Tests when tacking.",
+            "hidden": false,
+            "page": 50,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditionGroups": [
+                  {
+                    "type": "or",
+                    "conditionGroups": [
+                      {
+                        "type": "and",
+                        "conditions": [
+                          {
+                            "childId": "acdc-916f-3496-1e3c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "equalTo",
+                            "value": 0
+                          },
+                          {
+                            "childId": "7ab9-2d58-2436-14ca",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "atLeast",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Out of Practice",
+            "id": "7ece-ff88-c9d9-3b96",
+            "description": "Spanish crews were not trained very often. It will cost 30% (rather than the usual 20%) to crew a ship with a Veteran crew.",
+            "hidden": false,
+            "page": 82,
+            "publicationId": "4400-38ae-29ec-f309",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "acdc-916f-3496-1e3c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "La Princesa",
+        "id": "1447-0aad-a570-0307",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5fd6-e0e9-e541-bff1", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "5f88-176d-aac8-6c59",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "26d3-4af4-6995-12d4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "e657-7f11-486c-2900", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "profiles": [
+          {
+            "name": "La Princesa",
+            "id": "916c-f1d6-032b-378a",
+            "hidden": false,
+            "page": 83,
+            "publicationId": "4400-38ae-29ec-f309",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "M", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "1H-1L-1C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "-", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "-", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "34", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Red", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "5", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "12", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "La Princesa",
+            "id": "5d92-cff6-0000-3ace",
+            "description": "If La Princesa is Anchored within 4\" of a beach, for every two full turns without moving or shooting, place a shore gun emplacement on that beach within 6\" of La Princesa.",
+            "hidden": false,
+            "page": 83,
+            "publicationId": "4400-38ae-29ec-f309"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "La Princesa",
+            "id": "bddf-a777-ba87-4453",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "4a26-c003-4cfa-06c2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "bd80-2fb3-1ce7-10e0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 150}]
+          }
+        ]
+      },
+      {
+        "name": "Santisima Trinidad",
+        "id": "460b-fbbe-bce0-e8ae",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1523-4589-ff4d-0ef5", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "27a6-99e6-15ff-f6c3",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "bac6-a114-2a5f-161c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "207e-5f5b-a01d-77fb", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "profiles": [
+          {
+            "name": "Santisima Trinidad",
+            "id": "802f-e1aa-1969-83c0",
+            "hidden": false,
+            "page": 83,
+            "publicationId": "4400-38ae-29ec-f309",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "XL", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "5H-5L-4C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "2H", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "2H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "144", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Yellow", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "3", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "48", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Santisima Trinidad",
+            "id": "2cc2-20dd-01c6-aa22",
+            "description": "The Santisima has many guns and is extremely sturdy, however she is also very unwieldy: The Santisima will only ever be able to make one change of direction during her activation, no matter what Level of Sail she is travelling at. Additionally, it can only travel at Full Sails after succeeding at a Skill Test.",
+            "hidden": false,
+            "page": 83,
+            "publicationId": "4400-38ae-29ec-f309"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Santisima Trinidad",
+            "id": "60cd-d883-f53c-b67e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "12c8-e85d-52fa-b23a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "c714-af48-80a1-9e61",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 680}]
+          }
+        ]
+      },
+      {
+        "name": "Santa Ana",
+        "id": "7433-9f52-85dd-7431",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "c690-00f3-23fe-6f25", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "8fc2-97ef-72bd-bfbb",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "e51a-7f60-d769-636b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "8341-e285-8907-d7fa", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Santa Ana",
+            "id": "df37-4047-e1e1-ecb8",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "XL", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "6H-3L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1H", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "2H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "112", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Yellow", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "3", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "37", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Santa Ana",
+            "id": "539b-f650-1e6f-d5bb",
+            "description": "The Santa Ana has +1 to hit against all Royal Navy ships.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Santa Ana",
+            "id": "fdfd-dbe7-123c-dc21",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "cdf3-aabd-c7ee-28db",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "ffaa-1593-37f9-c5ef",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 370}]
+          }
+        ]
+      },
+      {
+        "name": "Argonauta",
+        "id": "43a7-1f75-700f-2571",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "a1ac-cbc4-2a5a-a7b3", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "e0d9-fbdc-b1c1-33c3",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "dd4c-411a-bfae-5c3b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "88ca-35a9-e8b0-accd", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Argonauta",
+            "id": "5c79-c661-c273-c092",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "L", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "3H-3L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1L", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "1H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "84", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Red", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "4", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "32", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Argonauta (Rule 1)",
+            "id": "e592-df57-7780-63ee",
+            "description": "The Argonauta has +2 to Skill Tests for repairing and will restore1D6+3 points of damage.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          },
+          {
+            "name": "Argonauta (Rule 2)",
+            "id": "0a6d-956b-ad0a-509d",
+            "description": "The Argonauta also has a +1to Skill Test when tacking.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Argonauta",
+            "id": "3555-0e1e-553d-9c6c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "5e95-ebcb-ccb6-454d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "9af6-72a3-d837-38ae",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 370}]
+          }
+        ]
+      },
+      {
+        "name": "Montañés",
+        "id": "6c99-c0db-badb-dd69",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6f29-9ba3-14fd-d8fb", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "c7d4-dcb1-29dd-6fc8",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "86ed-9322-48f3-c5c1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "19f2-5db6-5d9a-f7c5", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Montañés",
+            "id": "3280-7bde-c89a-ec2d",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "L", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "3H-2L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1L", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "1H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "78", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Red", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "5", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "20", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Montañés",
+            "id": "3420-8fa0-d961-f8ee",
+            "description": "While within 8\" of the Montañés, any Spanish ship that has Struck the COlours raises its colours once more. That ship does not have to test again unless it is forced to by circumstance, it opens fire, or is involved in a boarding action. In the two latter instances and starting with its next activation, the ship will have to test again as normal, every activation.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Montañés",
+            "id": "be7d-bb24-b0ef-f095",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "dcf5-9672-1221-6649",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "f20f-a923-5dbf-9734",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 350}]
+          }
+        ]
+      },
+      {
+        "name": "San Juan Nepomuceno",
+        "id": "8243-6efb-99c1-56a2",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "0797-33e2-ab05-afb3", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "d05f-d465-49d5-c7ba",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "da69-7fb1-7e3c-6833",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f212-44c3-d60b-b7b4",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "db25-a350-7bf4-728e", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "San Juan Nepomuceno",
+            "id": "518b-3dfe-2b6f-f5fe",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "L", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "3H-2L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1L", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "1H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "72", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Red", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "4", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "20", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "San Juan Nepomuceno (Rule 1)",
+            "id": "ab7e-a034-0e9d-4663",
+            "description": "The San Juan has +1 to all Skill Tests.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          },
+          {
+            "name": "San Juan Nepomuceno (Rule 2)",
+            "id": "1af5-885c-0d4a-d74c",
+            "description": "She has a +2 on all Strike the Colours tests.",
+            "hidden": false,
+            "page": 51,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "San Juan Nepomuceno",
+            "id": "849d-c038-1645-a977",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "e0fb-1b00-44f2-2414",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "d307-4789-a9a9-c31c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 350}]
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntryGroups": [
+      {
+        "name": "Upgrades (Select Before Crew)",
+        "id": "d50d-b95e-6740-cf1b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "constraints": [
+          {
+            "id": "bf95-8c25-757f-c73d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 0
+          }
+        ],
+        "entryLinks": [
+          {
+            "name": "Trained Marines",
+            "id": "2184-b55b-ffcc-2b5b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "56fa-6624-6140-94f6",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Swivel Guns",
+            "id": "9d7b-7ad8-68d0-c5cc",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "c3a3-61fb-a63f-97ad",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Lucky",
+            "id": "4003-72ee-8bf0-5d87",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "0ff5-77d1-0cdb-8a27",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Privateer",
+            "id": "b023-558c-a7c4-20fd",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "5db6-6151-dd13-a235",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Master Carpenter",
+            "id": "cd0b-6034-dad6-4764",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "9fbc-9af9-e1f4-fece",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Master Gunner",
+            "id": "7d18-ecdf-9ca8-774a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "ee94-62b3-3eda-99f9",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Over Gunned",
+            "id": "0ee4-838b-7431-47f3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "9bb2-8885-a14b-7c75",
+            "type": "selectionEntry",
+            "modifiers": [
+              {
+                "field": "7d88-7913-6ca0-ac33",
+                "type": "set",
+                "value": 0,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      },
+                      {
+                        "childId": "f930-320d-722c-2b47",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "More Carronades",
+            "id": "ff52-dac8-4142-f116",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3c63-35db-f8f0-c553",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Master Caulker",
+            "id": "fe80-6f09-4720-7569",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "a8e8-d1aa-ad11-3350",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Grappling Hooks",
+            "id": "0ada-e773-9137-bf3f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "4c87-0cd8-d8ad-bb26",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Grenades",
+            "id": "b3ec-d362-9687-ee59",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "e3c4-20ca-ba5c-4189",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Ship's Surgeon",
+            "id": "7813-2223-421b-9a98",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "b564-ce37-2596-a7f0",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Sharpshooters",
+            "id": "8702-60b9-d676-e34e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "93c8-4fbc-c2fe-d2f5",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Boarding Nets",
+            "id": "7185-6c55-dbf7-8e0d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "fb62-ef5d-64c3-de33",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Streamlined Hull",
+            "id": "cb79-1d4b-4e5e-351f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "e1a3-4e32-2de5-c232",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Sturdy",
+            "id": "f94f-0297-3122-0482",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "6021-8f0f-9f64-1a9b",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Shallow Draft",
+            "id": "2d7a-bb07-3c3a-e7cb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "d4fb-3433-12ae-b485",
+            "type": "selectionEntry",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Crew (Reselect after changing upgrades)",
+        "id": "7dab-c3d7-60a6-6ab4",
+        "collective": false,
+        "defaultSelectionEntryId": "5be3-fd3b-e0f6-223f",
+        "hidden": false,
+        "import": true,
+        "constraints": [
+          {
+            "id": "5a4a-be6d-e4f1-34a4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "1e11-9515-02a5-b4aa",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Inexperienced Crew",
+            "id": "ced0-7a4b-7688-ba12",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+            "infoLinks": [{"name": "Inexperienced Crew/Garrision", "id": "14f2-44c9-da6c-bd7a", "hidden": false, "targetId": "0571-5862-faa3-63d5", "type": "rule"}],
+            "modifiers": [
+              {
+                "field": "7d88-7913-6ca0-ac33",
+                "type": "decrement",
+                "value": 10,
+                "repeats": [
+                  {
+                    "childId": "model",
+                    "field": "7d88-7913-6ca0-ac33",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "repeats": 1,
+                    "roundUp": true,
+                    "scope": "parent",
+                    "shared": true,
+                    "value": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Regular Crew",
+            "id": "5be3-fd3b-e0f6-223f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+            "infoLinks": [{"name": "Regular Crew", "id": "941d-be5b-6e29-c76b", "hidden": false, "targetId": "f0fa-db80-6560-a12b", "type": "rule"}]
+          },
+          {
+            "name": "Veteran Crew",
+            "id": "2ec0-0ef3-d2a7-9d69",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+            "infoLinks": [{"name": "Veteran Crew", "id": "4438-337f-3078-59cc", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+            "modifiers": [
+              {
+                "field": "7d88-7913-6ca0-ac33",
+                "type": "increment",
+                "value": 10,
+                "conditions": [
+                  {
+                    "childId": "acdc-916f-3496-1e3c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ],
+                "repeats": [
+                  {
+                    "childId": "model",
+                    "field": "7d88-7913-6ca0-ac33",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "repeats": 1,
+                    "roundUp": true,
+                    "scope": "parent",
+                    "shared": true,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "field": "7d88-7913-6ca0-ac33",
+                "type": "increment",
+                "value": 10,
+                "conditions": [
+                  {
+                    "childId": "acdc-916f-3496-1e3c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "atLeast",
+                    "value": 1
+                  }
+                ],
+                "repeats": [
+                  {
+                    "childId": "model",
+                    "field": "7d88-7913-6ca0-ac33",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "repeats": 1,
+                    "roundUp": true,
+                    "scope": "parent",
+                    "shared": true,
+                    "value": 33.34
+                  }
+                ]
+              },
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditionGroups": [
+                  {
+                    "type": "and",
+                    "conditions": [
+                      {
+                        "childId": "9bb2-8885-a14b-7c75",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      },
+                      {
+                        "childId": "acdc-916f-3496-1e3c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      },
+                      {
+                        "childId": "f930-320d-722c-2b47",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Special Characters (Select Before Crew)",
+        "id": "f212-44c3-d60b-b7b4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "constraints": [
+          {
+            "id": "81ea-1e60-7c33-58f5",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "780e-c963-47e2-5920",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "modifiers": [
+          {
+            "field": "780e-c963-47e2-5920",
+            "type": "set",
+            "value": -1,
+            "conditions": [
+              {
+                "childId": "dc26-56e2-0fa1-c09e",
+                "field": "selections",
+                "includeChildForces": true,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Admiral Ignacio Maria de Alava y Saenz de Navarrete",
+            "id": "ea56-05e0-25b5-65b5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "659f-a4e0-7f35-7c4f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 30}],
+            "rules": [
+              {
+                "name": "Admiral Ignacio Maria de Alava y Saenz de Navarrete",
+                "id": "c6a1-1150-2ce9-9e17",
+                "description": "Every ship within 20\" of Navarrete, including his own, adds +1 to hit versus privateers.",
+                "hidden": false,
+                "page": 83,
+                "publicationId": "4400-38ae-29ec-f309"
+              }
+            ]
+          },
+          {
+            "name": "Admiral Juan de Lángara",
+            "id": "9cff-f256-5515-355f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "3d08-b892-d2a0-7a00",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 30}],
+            "rules": [
+              {
+                "name": "Admiral Juan de Lángara",
+                "id": "1f7f-9297-feee-b227",
+                "description": "You may deploy Juan de Lángara’s ship after everyone else has deployed, on any edge of the battle area.",
+                "hidden": false,
+                "page": 83,
+                "publicationId": "4400-38ae-29ec-f309"
+              }
+            ]
+          },
+          {
+            "name": "Federico Carlos Gravina y Nápoli",
+            "id": "d1b2-b639-99be-e464",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "897b-a227-765a-b9e8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 50}],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ],
+            "rules": [
+              {
+                "name": "Federico Carlos Gravina y Nápoli (Rule 1)",
+                "id": "3d33-8d4b-3104-5e70",
+                "description": "Every Spanish ship within 16\" of Gravina's ship, including his own, gains a +1 to the dice roll of every Skill Test",
+                "hidden": false,
+                "page": 50,
+                "publicationId": "600d-46bd-39bc-a54b"
+              },
+              {
+                "name": "Federico Carlos Gravina y Nápoli (Rule 2)",
+                "id": "eae2-0df6-52f9-b038",
+                "description": "Gravina's ship adds +1 to hit versus privateers",
+                "hidden": false,
+                "page": 50,
+                "publicationId": "600d-46bd-39bc-a54b"
+              }
+            ]
+          },
+          {
+            "name": "Cosme Damián de Churruca y Elorza",
+            "id": "d6e8-3631-535b-eb0d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "a2d6-b9f3-fca4-d2eb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 30}],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ],
+            "rules": [
+              {
+                "name": "Cosme Damián de Churruca y Elorza (Rule 1)",
+                "id": "7705-1529-f5a4-f139",
+                "description": "Whilst Cosme Damián de Churruca y Elorza is alive, the ship he is on will not Strike the Colours, even if the Ship Points go below its Break Valuie",
+                "hidden": false,
+                "page": 50,
+                "publicationId": "600d-46bd-39bc-a54b"
+              },
+              {
+                "name": "Cosme Damián de Churruca y Elorza (Rule 2)",
+                "id": "7ba4-e642-a823-33d1",
+                "description": "Every time the ship occupied by de Churruca y Elorza takes a critical hit, roll a D10. On a result of 10, he is mortally wounded and his special rule ceases to have effect.",
+                "hidden": false,
+                "page": 50,
+                "publicationId": "600d-46bd-39bc-a54b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

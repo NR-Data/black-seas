@@ -1,0 +1,1622 @@
+{
+  "catalogue": {
+    "name": "Portugal",
+    "id": "d57f-3e27-f21f-345f",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "51c2-042a-5d64-71ec",
+    "gameSystemRevision": 17,
+    "library": false,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "1st Rate",
+        "id": "0e55-d1a7-b8dc-1ece",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d273-1a5d-79fc-d725",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "b2dc-acba-06c9-2091", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "97d9-c7a3-b5ca-a523",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "dd2e-163f-e3ad-f92c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "d305-b984-0347-ef72",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "2nd Rate",
+        "id": "7a6f-eaca-10cc-dc90",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4bad-abd8-8743-84e0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ac21-7705-044d-7c06", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "24d1-17b7-18c6-bfb8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e45c-902a-c221-b8bd",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 4}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "334b-3acd-c866-6c57",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Large)",
+        "id": "306f-952c-2a16-f5a0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "97a2-1cff-c1ab-c915",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8fd3-1eaf-9fa7-3360", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "abda-5fe6-debf-0c31",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "cb09-5b25-d124-19a6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "86f8-bcd0-a184-101a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Razeed)",
+        "id": "35b9-7705-d419-33ed",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9af3-3a0d-17e3-0b14",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "9c73-b2ef-2a06-891e", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "b2cc-26ad-2167-86ec",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e8c9-7b4b-d8d5-0983",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "e68b-e74d-9053-0714",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "3rd Rate (Small)",
+        "id": "b500-f1c9-1354-6f4f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3bb3-9779-d91b-efc8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6264-4478-ebef-4316", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "a3a7-ea84-3ed5-c215",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6e7e-8aba-c65f-db84",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "b5cd-5ffb-413f-6a26",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate",
+        "id": "1ccd-8725-436b-290b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4b95-6630-7b1d-33b8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "cb8f-dfb1-25dc-7168", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6387-391b-9012-5a17",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "1a51-f419-050c-9928",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "1711-08c5-010d-dfe2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "4th Rate (Razeed)",
+        "id": "90e0-8be8-9607-539c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2334-6787-3a8d-f3ba",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "bdd5-29f1-5e7c-3a47", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "27ff-8824-e1ec-1b00",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6296-505c-b720-10ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "ac20-ab8e-67ba-3373",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "5th Rate",
+        "id": "bc2c-bf90-31e6-0ed0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5536-64cc-de6c-fda3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "a349-1f3d-a101-9ffc", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "3bc8-0de9-b8a6-27b2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "906e-a18e-3f63-f66a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "d521-a75b-034f-bf82",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "6th Rate",
+        "id": "fbbb-3dad-ab26-c8f1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a120-b934-6963-b4b3",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "9e2a-3a13-7ef4-b37c", "hidden": false, "primary": true, "targetId": "06bf-34c6-67ee-2eac"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "5592-1b6e-4385-8fb5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b63e-bc13-c869-654f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0042-903a-a174-57a0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Barque",
+        "id": "3ecd-a658-f65b-bb1e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9e61-60e2-3796-19f0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8ab5-1b31-a602-ff40", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "920c-5735-bb26-7d8a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6c95-5fdd-6d97-7585",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "4e27-4ae0-7ac9-9c51",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Ketch",
+        "id": "62b7-8411-59af-4197",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d1b9-f695-83bf-2a47",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3dfa-fe74-cdba-a954", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "e0bc-8ec3-42dc-9622",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "a252-ded6-8d7a-48f9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "eb34-870c-8d24-55cb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Vessel",
+        "id": "e130-9a41-742f-6e4a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5470-ef41-9bb6-3402",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "13c6-1b9f-490a-b9b7", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "2aa9-8864-8ca5-f84a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "3f1d-8c46-c3d8-be46",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "353e-a268-2c72-ad57",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Brig",
+        "id": "5299-685b-e9fa-1575",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7bb6-9880-ad78-df26",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "cdd5-b133-f62e-a09a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "e608-7639-a67b-2192",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "99b7-edc4-6deb-c4cb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "9bec-c114-faf9-661e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Cutter",
+        "id": "132d-4c8a-fe63-ceea",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0da6-3ef1-9cfa-2e11",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d110-5bc4-e39c-f01a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "7ba8-1202-e995-9296",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "ea63-e06c-3aea-721d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "3889-1c01-83b2-b126",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Cutter (Small)",
+        "id": "a66c-1604-b985-33db",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9a56-4d24-336e-2953",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d1fb-807d-439e-cbc2", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "7dce-6e33-de28-8014",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "9571-bfbd-a86b-680c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "4c9c-3f05-026b-ef05",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Fireship",
+        "id": "afb8-cd2b-af85-5e1b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9b79-e4bb-3a20-31ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "348d-b560-2136-c6d6", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6cb2-9f50-9b83-f5db",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "e63f-7e4a-dbd7-ae9a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "2d2b-cca0-17c3-d112",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Floating Battery",
+        "id": "461b-0e61-1b2c-1be1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b8b6-7079-7c34-10ef",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8d58-f822-595c-5ea4", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "af90-4020-4257-35f7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galleon",
+        "id": "28f2-7621-b9f3-daca",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "432b-3429-ae8d-81df",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "efb5-babd-48e8-6540", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6409-9e6c-6d90-cf5a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "6e82-34d1-3a74-6858",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "a1eb-b6d1-607e-9e60",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galley (Large)",
+        "id": "e430-2f0c-8a06-93e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3b7e-49d6-22ab-4615",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5dcb-3dd5-fec3-e091", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6680-34a1-5fe7-d54b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "ab04-a2eb-a2d1-4867",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "8fe6-083f-889a-2b86",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Galley (Small)",
+        "id": "bd20-2690-ad71-49f0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f1b0-8cd1-b82e-6dcf",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "00da-65a5-f41b-8d1d", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "39f7-b219-d50c-fe94",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "81d6-2942-c4b0-9cc8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "429a-f421-0ecc-9b60",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunboat Squadron",
+        "id": "9ac6-c067-c4e9-2231",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3485-71bb-9b3b-0be4",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "51e1-f3d6-9043-57a3", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "8ada-bdee-bc8c-f70d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "49c0-9aa5-cc93-d0e1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gunbrig Squadron",
+        "id": "2a15-506b-849d-fc5a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3d1d-521a-cfa2-f96c",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4ac5-68e9-fc36-d06a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6408-204e-eab2-b694",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "3b62-a7ba-b2f3-d61d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Large Gunbrig",
+        "id": "a982-cd79-6c43-6318",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "caaa-ee3d-cdf7-3cdd",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "36e9-eef1-4395-f325", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "ed3a-dd3d-92b1-b41a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "764e-c3f8-356d-4eaf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "7daa-6ac5-412c-e3d7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Martello Tower",
+        "id": "a725-6b0b-dbc5-25f6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f5cb-eebe-eded-de98",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "54b1-5552-95b1-7af0", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "0f69-c1f8-33b9-3818",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Large)",
+        "id": "43a3-f8e5-16c7-f918",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e2c0-ce7d-7240-a845",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4f07-2083-8929-5594", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b8e4-b723-c7c5-8a7d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 3}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0a2d-c7f9-07b5-3a6b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Merchant (Small)",
+        "id": "ba3c-b7a1-65af-1796",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2897-f838-87ac-7b53",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "49e6-60a1-48f1-f133", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "1570-4fde-7f03-4840",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 2}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "ea86-610f-2551-bcaf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Schooner",
+        "id": "b6e0-7494-5106-865a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9ab6-bc2e-aec5-6951",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "01d5-0087-896a-eca0", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "8c2b-6f33-555d-a73b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "c11d-82f1-d589-11f5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "571b-d39e-3311-a6c3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Fortress",
+        "id": "f977-421f-59d4-bd8b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dec0-1869-41a7-262d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5b5c-5b8f-5641-c9d6", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "12fc-d54d-d556-541c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Gun Emplacement",
+        "id": "dfc1-de2d-ca1c-9185",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2d67-c001-1f52-f720",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "f9be-1d26-7abe-890e", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "1217-13b6-10f9-2339",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Shore Mortar Emplacement",
+        "id": "3da0-c7be-e1ad-c14f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "09c4-ddc6-3908-569f",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "fac5-365c-9e98-2d9b", "hidden": false, "primary": true, "targetId": "d255-30ab-09e1-b0c9"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "6487-1541-77de-f660",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Sloop",
+        "id": "d3c1-daa4-48d7-dd15",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2f41-7c10-013b-4ad9",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3865-434d-797c-b13a", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "449e-8ae4-7b88-2628",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "ad20-0a31-3478-5bc1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "bbac-cac9-3c18-86e5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Large)",
+        "id": "d45e-048b-5eb2-76e4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2667-0784-2c3a-329a",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5a6b-28de-1230-6456", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "37ab-af0c-9342-3a98",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b1e6-ed99-ba9a-539f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "db8d-eb3a-9f41-c453",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Xebec (Small)",
+        "id": "d9a1-c85e-21fe-f21f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6944-f8c1-77bf-1f8b",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "206d-959a-22cc-3fc4", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "4225-9470-8547-6ae0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "b080-cc8e-2f2f-64cf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          },
+          {
+            "name": "Special Characters",
+            "id": "0272-f0df-bdc5-6b13",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ]
+      },
+      {
+        "name": "Gun Ketch",
+        "id": "2b3f-189c-d2e5-98d0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "28d0-af26-ee20-704d",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "c2d3-bae7-a05f-6a48", "hidden": false, "primary": true, "targetId": "9e85-8e97-585d-9032"}],
+        "entryLinks": [
+          {
+            "name": "Crew (Reselect after changing upgrades)",
+            "id": "7262-8ebe-075d-4529",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "be09-0aca-2776-a29b",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Special Characters",
+            "id": "644e-f469-6d27-86a2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Upgrades (Select Before Crew)",
+            "id": "50e7-5cf1-fafb-ab81",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "8b5c-d52b-7870-74b0",
+            "type": "selectionEntryGroup",
+            "modifiers": [{"field": "9a39-07d3-6e35-b5d1", "type": "set", "value": 1}]
+          }
+        ]
+      },
+      {
+        "name": "Special Fleet Composition",
+        "id": "9696-2e76-2f12-19a3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a0b9-7e6b-5c15-5e05",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8294-0b2e-2589-8807", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}]
+      }
+    ],
+    "selectionEntries": [
+      {
+        "name": "National Special Rules",
+        "id": "c204-81d2-a04e-6b78",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ad03-3cd2-a896-3e68", "hidden": false, "primary": true, "targetId": "fd46-c0ea-dc94-153c"}],
+        "constraints": [
+          {
+            "id": "d713-d5a5-7ffd-3588",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "5b86-f8f7-14b7-db3d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "National Special Rules",
+            "id": "9f17-9049-970e-3c12",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "2393-88e6-6fb2-12d2",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {
+            "name": "National Special Rules",
+            "id": "4fcf-1188-e11c-6a30",
+            "hidden": false,
+            "targetId": "4d4b-1241-6d87-85a1",
+            "type": "rule",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "greaterThan",
+                    "value": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "No National Special Rules",
+            "id": "9601-911f-52e6-a3f3",
+            "description": "The Portugese Navy does not have any National Special Rules.",
+            "hidden": false,
+            "page": 71,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditionGroups": [
+                  {
+                    "type": "or",
+                    "conditionGroups": [
+                      {
+                        "type": "and",
+                        "conditions": [
+                          {
+                            "childId": "acdc-916f-3496-1e3c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "equalTo",
+                            "value": 0
+                          },
+                          {
+                            "childId": "7ab9-2d58-2436-14ca",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": true,
+                            "percentValue": false,
+                            "scope": "force",
+                            "shared": true,
+                            "type": "atLeast",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "childId": "7ab9-2d58-2436-14ca",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "scope": "force",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Principe Real",
+        "id": "abfb-fabf-f76f-3d24",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "723c-21b9-fa36-b5a7", "hidden": false, "primary": true, "targetId": "c50a-53fd-9548-d8d7"}],
+        "constraints": [
+          {
+            "id": "45d0-efc6-af55-127f",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Special Characters",
+            "id": "1bff-48f0-655f-0e51",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "3a2c-c60e-a330-125e",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [{"name": "Veteran Crew", "id": "614e-c0f2-1bbe-d152", "hidden": false, "targetId": "d5aa-8236-15e1-7b35", "type": "rule"}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "7ab9-2d58-2436-14ca",
+                "field": "forces",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 0
+              }
+            ]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Principe Real",
+            "id": "4f54-9501-5ca1-62e9",
+            "hidden": false,
+            "page": 71,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "typeId": "e74f-36c4-f6af-88e0",
+            "typeName": "Ship",
+            "characteristics": [
+              {"name": "Size", "$text": "XL", "typeId": "0ef8-a01c-edd3-d8bc"},
+              {"name": "Broadsides", "$text": "4H-3L-2C", "typeId": "1702-3933-5eee-1009"},
+              {"name": "Stern", "$text": "1H", "typeId": "7a68-b31b-0857-322b"},
+              {"name": "Bow", "$text": "2H", "typeId": "94e1-6bcb-8628-3818"},
+              {"name": "Ship Points", "$text": "90", "typeId": "23b1-8fff-b6b0-27f6"},
+              {"name": "Turn Angle", "$text": "Yellow", "typeId": "ea66-0fb7-db52-0ee8"},
+              {"name": "Rate of Knots", "$text": "3", "typeId": "4593-98e1-47df-309f"},
+              {"name": "Break Value", "$text": "30", "typeId": "2d15-4231-1f06-84a0"}
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Principe Real",
+            "id": "edc8-9284-8733-6005",
+            "description": "The Principe Real must pass a Skill Test to change her Level of Sail.",
+            "hidden": false,
+            "page": 71,
+            "publicationId": "600d-46bd-39bc-a54b"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Principe Real",
+            "id": "d118-c6bc-a6f0-ef29",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "87f2-b12c-f98e-52c0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "0eb9-45d5-407c-b28e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 350}]
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntryGroups": [
+      {
+        "name": "Special Characters (Select Before Crew)",
+        "id": "3a2c-c60e-a330-125e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "constraints": [
+          {
+            "id": "ff75-c6ad-1605-80d7",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "c636-e6c3-e949-e1ef",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": true,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "modifiers": [
+          {
+            "field": "c636-e6c3-e949-e1ef",
+            "type": "set",
+            "value": -1,
+            "conditions": [
+              {
+                "childId": "dc26-56e2-0fa1-c09e",
+                "field": "selections",
+                "includeChildForces": true,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "equalTo",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Admiral D. Domingos Xavier de Lima, Marques de Niza",
+            "id": "aa95-50ff-78a0-d111",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "page": 71,
+            "publicationId": "600d-46bd-39bc-a54b",
+            "type": "model",
+            "constraints": [
+              {
+                "id": "6241-02d8-ddaf-8996",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": true,
+                "percentValue": false,
+                "scope": "roster",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "7d88-7913-6ca0-ac33", "value": 50}],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "7ab9-2d58-2436-14ca",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "force",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 0
+                  }
+                ]
+              }
+            ],
+            "rules": [
+              {
+                "name": "Admiral D. Domingos Xavier de Lima, Marques de Niza",
+                "id": "83c5-9a9a-bc5c-99e1",
+                "description": "When de Lima is admiral of a fleet, any friendly ship within 8\" of the ship de Lima is on can re-roll its first Skill Test.",
+                "hidden": false,
+                "page": 71,
+                "publicationId": "600d-46bd-39bc-a54b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
